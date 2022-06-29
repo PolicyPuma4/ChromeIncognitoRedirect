@@ -2,7 +2,7 @@
 Redirects opened URLs and files from Google Chrome to an incognito Google Chrome window
 
 ## How do I install this app?
-1. Download the latest executable (file ending with .exe) from the [latest release](https://github.com/PolicyPuma4/ChromeIncognitoRedirect/releases/latest)
+1. Download the [latest executable](https://github.com/PolicyPuma4/ChromeIncognitoRedirect/releases/latest/download/ChromeIncognitoRedirect.exe)
 1. Run the executable
 1. Change your default browser in the Windows settings to ChromeIncognitoRedirect
 1. Enjoy the redirections! 🥳
